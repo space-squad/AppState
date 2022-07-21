@@ -1,0 +1,62 @@
+[
+    {
+        "notificationId": "MAnYlkd76lqI30TneHeE",
+        "preferredLocalization": "fr",
+        "type": {
+            "title": "Error",
+            "color": "ff3a30",
+            "icon": "xMark",
+            "isDismissable": false
+        },
+        "notification": {
+            "language": "en",
+            "header": "Database is down!",
+            "message": "Don't expect too much, our servers are currently down. We apologize!"
+        }
+    },
+    {
+        "notificationId": "MAnYlkd76lqI30TneHuF",
+        "preferredLocalization": "es",
+        "type": {
+            "title": "Warning",
+            "color": "ff9500",
+            "icon": "exclamationMark",
+            "isDismissable": false
+        },
+        "notification": {
+            "language": "en",
+            "header": "Careful!",
+            "message": "If you add an incorrect AppID, your users will not receive any notifications!"
+        }
+    },
+    {
+        "notificationId": "MAnYlkd76lqI30TneHl2",
+        "preferredLocalization": "en",
+        "type": {
+            "title": "Info",
+            "color": "34c759",
+            "icon": "info",
+            "isDismissable": true
+        },
+        "notification": {
+            "language": "en",
+            "header": "Closing is easy",
+            "message": "You can dismiss a notification by tapping on the close button."
+        }
+    },
+    {
+        "notificationId": "MAnYlkd76lqI30TneHiO",
+        "preferredLocalization": "de",
+        "type": {
+            "title": "Update",
+            "color": "32ade6",
+            "icon": "app",
+            "isDismissable": true
+        },
+        "notification": {
+            "language": "en",
+            "header": "Neues Update!",
+            "message": "Wir haben gerade Version 2.0 veröffentlicht. Aktualisiere deine App jetzt!"
+        }
+    }
+]
